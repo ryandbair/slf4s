@@ -16,13 +16,13 @@ h3. For SBT
 
 <pre><code>val slf4s = "com.weiglewilczek.slf4s" %% "slf4s" % "1.0.7</code></pre>
 
-Supported Scala versions are 2.8.0, 2.8.1, 2.9.0-1 and 2.9.1.
+Supported Scala versions are 2.9.2 and 2.10.0-RC5.
 
 h3. For Maven
 
 <pre><code><dependency>
   <groupId>com.weiglewilczek.slf4s</groupId>
-  <artifactId>slf4s_2.9.1</artifactId>
+  <artifactId>slf4s_2.9.2</artifactId>
   <version>1.0.7</version>
 </dependency></code></pre>
 
