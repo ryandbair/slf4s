@@ -4,13 +4,11 @@ name := "slf4s"
 
 version := "1.0.7"
 
-scalaVersion := "2.10.0-RC5"
-
-crossVersion := CrossVersion.full
+scalaVersion := "2.10.0"
 
 crossScalaVersions := Seq(
     "2.9.2",
-    "2.10.0-RC5")
+    "2.10.0")
 
 libraryDependencies ++= Seq(
     "org.slf4j" % "slf4j-api" % "1.6.1")
